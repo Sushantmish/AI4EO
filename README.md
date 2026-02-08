@@ -1,2 +1,2 @@
 # AI4EO
-This Repository contain the content the Module : GEOL0069 - AI for Earth Observation
+This Repository contains the content for the Module : GEOL0069 - AI for Earth Observation
